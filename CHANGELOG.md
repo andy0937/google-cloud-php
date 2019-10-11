@@ -1,5 +1,73 @@
 # Changelog
 
+## 0.116.0
+
+<details><summary>google/cloud-core 1.34.0</summary>
+
+
+
+### Features
+
+* Extract KMS testing utilities ([#2376](https://www.github.com/googleapis/google-cloud-php/issues/2376)) ([20ced2a](https://www.github.com/googleapis/google-cloud-php/commit/20ced2ac1185fe08402c951a3b731e35f8e64d85))
+
+
+### Bug Fixes
+
+* Only throw exception when creating directory really failed in HandleFailureTrait ([#2341](https://www.github.com/googleapis/google-cloud-php/issues/2341)) ([65d3f6d](https://www.github.com/googleapis/google-cloud-php/commit/65d3f6db293afa28a424f687242a3f3f59a5c62b))
+
+</details>
+
+<details><summary>google/cloud-firestore 1.10.0</summary>
+
+
+
+### Features
+
+* Add additional array operators to generated client query. ([#2396](https://www.github.com/googleapis/google-cloud-php/issues/2396)) ([4a08ba4](https://www.github.com/googleapis/google-cloud-php/commit/4a08ba4bdb730347ae44f05847f3343c382761ed))
+
+</details>
+
+<details><summary>google/cloud-monitoring 0.19.0</summary>
+
+
+
+### Features
+
+* Add DroppedLabels proto message. ([#2401](https://www.github.com/googleapis/google-cloud-php/issues/2401)) ([edd7e7f](https://www.github.com/googleapis/google-cloud-php/commit/edd7e7f3c899d43068c3fcee870330a4f2ccf1c1))
+
+</details>
+
+<details><summary>google/cloud-redis 0.11.0</summary>
+
+
+
+### Features
+
+* Make dataProtectionMode in CloudRedisGapicClient::failoverInstance optional / Update timeouts ([9986719](https://www.github.com/googleapis/google-cloud-php/commit/9986719d481e99f844ba0c0232cd57388a4eaf7c))
+* Update timeouts. ([#2383](https://www.github.com/googleapis/google-cloud-php/issues/2383)) ([46c601d](https://www.github.com/googleapis/google-cloud-php/commit/46c601dedc99f6d9daae95ba5eb05bd59e150a12))
+
+</details>
+
+<details><summary>google/cloud-talent 0.7.0</summary>
+
+
+
+### Features
+
+* Introduce availability filters and signals. ([#2384](https://www.github.com/googleapis/google-cloud-php/issues/2384)) ([79f1601](https://www.github.com/googleapis/google-cloud-php/commit/79f16019a9d251ba8c600ad3540cd5120f0fdf01))
+
+</details>
+
+<details><summary>google/cloud-translate 1.5.1</summary>
+
+
+
+### Bug Fixes
+
+* Update output string ([#2382](https://www.github.com/googleapis/google-cloud-php/issues/2382)) ([bb40c5c](https://www.github.com/googleapis/google-cloud-php/commit/bb40c5c600890d9dd8a1954bbfba6416fa8ea87d))
+
+</details>
+
 ## 0.115.0
 
 <details><summary>google/cloud-automl 0.7.1</summary>
